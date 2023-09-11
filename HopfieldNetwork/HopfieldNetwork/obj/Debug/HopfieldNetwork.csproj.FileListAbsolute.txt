@@ -1,0 +1,27 @@
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\bin\Debug\HopfieldNetwork.exe
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\bin\Debug\HopfieldNetwork.pdb
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.AssemblyReference.cache
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.Form1.resources
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.Properties.Resources.resources
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.GenerateResource.cache
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.CoreCompileInputs.cache
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.exe
+F:\3rdYear\2ndsem\repo\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.pdb
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\bin\Debug\HopfieldNetwork.exe
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\bin\Debug\HopfieldNetwork.pdb
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.AssemblyReference.cache
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.Form1.resources
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.Properties.Resources.resources
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.GenerateResource.cache
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.exe
+C:\Users\Aaliyah\Downloads\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.pdb
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\bin\Debug\HopfieldNetwork.exe
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\bin\Debug\HopfieldNetwork.pdb
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.AssemblyReference.cache
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.Form1.resources
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.Properties.Resources.resources
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.GenerateResource.cache
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.exe
+C:\Users\Aaliyah\Documents\VS Projects\HopfieldNetwork\HopfieldNetwork\obj\Debug\HopfieldNetwork.pdb
